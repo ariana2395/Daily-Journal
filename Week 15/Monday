@@ -1,0 +1,2 @@
+We went over local hosting on a server. Had issues running npm start because something on my computer is already using port 5000.
+OPened Postman, played with fetching commands such as get and post
