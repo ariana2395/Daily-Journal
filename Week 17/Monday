@@ -1,0 +1,19 @@
+Started week 17
+Started on Browser Basics
+Went over Inspector, console, sources, network and application. (See class notes file for more info on each)
+Reviewed the assesment.
+REalized my error with urls was forgetting the :
+for ex. I used /artists/artistID instead of /artists/:artistsId
+created new folder Browser basics to start demo on this weeks topics
+
+Went over adding scripts in an index file and sourcing them depending on location. (See bowser basics folder for examples)
+When we inspect console we can see all the scripts in order we list them
+the sample.js files we use function as utility files. that should be correctly names to identify whats in them
+
+Document Tree
+
+DOM represents the structure of a webpage, and you can manipulate it to change styles, colors, or other elements dynamically
+
+Do Dom vs Bom quiz
+
+NOTE TO SELF: Take some time soon to organize your folders and desktop
