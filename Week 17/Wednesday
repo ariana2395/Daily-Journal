@@ -1,0 +1,13 @@
+Worked on nodelist vs html collection practice. aa009-nodelist vs html collection
+Looked into console to access div elements.
+Looked at the order in which they appeared.
+
+Worked on element selection exercise aa009
+Practiced selecting html elements using methods on the "window" object in browser.
+used document.querySelectorAll('.seed') to get all that fit identifier using Node List
+.querySelector to just get the first
+
+used document.getElementsbyClassName('.seed') to get all using html collection
+
+Downloaded the next practices as well to work on
+create/remove elemtns and add/remove elements
