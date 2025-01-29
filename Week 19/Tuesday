@@ -1,0 +1,7 @@
+Middleware in Express.js is like a bouncer at a club, deciding who gets in and who doesn’t.
+Request = Person Trying to Enter the Club
+The request (req) is like a person showing up at the club’s entrance.
+Middleware = Bouncer
+The middleware (bouncer) checks the person’s ID, dress code, and guest list status.
+Calling next() = Letting the Person Through
+If the bouncer is satisfied, they call next() and let the person inside.
