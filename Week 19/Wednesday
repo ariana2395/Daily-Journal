@@ -1,0 +1,8 @@
+Added more practices to HW file to complete.
+Long Practice Error Route Handlers and Error Handling 404
+Remember to pull any notes ray may have added before pushing new work to avoud having to merge.
+
+Went into environment variables
+Testing - An environment that's used to test the application to ensure that recent changes don't affect existing functionality and new features meet the project's requirements.
+Staging/Development - An environment that mirrors the production environment to ensure that nothing unexpected occurs before the application is deployed to production.
+Production - The environment that serves end users. For applications that need to support a large number of users, the production environment can contain multiple servers (sometimes dozens or even hundreds of servers).
