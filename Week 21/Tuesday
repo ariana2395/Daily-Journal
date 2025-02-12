@@ -1,0 +1,4 @@
+Went over creating indexes in sql: 
+went over sanitation: process to stop data being submitted into sql that would comprimise data (sql injection attacks)
+
+worked on practice: express sequelize and sql query
