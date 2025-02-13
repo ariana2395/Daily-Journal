@@ -1,0 +1,7 @@
+worked on sequelize-models project aa011
+
+couldnt figure out where i was going wrong, could not get past step 4 for some reason. it showed migration wsa succesful but it wast creating the tables :(
+
+Went over Sequelize Models: Sequelize models represent the tables in your database in an object-oriented way.
+
+Reviewed Javascript Objects
