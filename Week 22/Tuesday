@@ -1,0 +1,8 @@
+Created web notes folder in terminal: mkdir Web_Notes
+used curl to save webpage into it 
+curl -o curl_demo.html https://rays-webnotes.netlify.app/21weekand22week/bonus_curl_overview
+
+curl -o save request onto harddrive - creates local copy
+curl_demo.html is the name were saving it under follwed by url we are saving
+
+worked on trees and insect long practice from last thursday
